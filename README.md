@@ -2,21 +2,21 @@
 
 **`Desenvolvedor Backend Java`**
 
-Me chamo Carlos Henrique, tenho 32 anos e sou natural de Taquari, Rio Grande do Sul. Trabalho com tecnologia há 14 anos e meio, sou funcionário público concursado e atuo atualmente no cargo de supervisor de TI em uma prefeitura. Tenho formação técnica e estou cursando superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e agora migrando para esse universo do desenvolvimento. Quem quiser me acompanhar, siga minhas redes sociais: Instagram [@kokatk_](https://www.instagram.com/kokatk_/) e LinkedIn [carloshenriquesw](https://www.linkedin.com/in/carloshenriquesw). Email: carloshenriquesw@gmail.com.
+Me chamo Carlos Henrique da Silva, tenho 32 anos e sou natural de Taquari, Rio Grande do Sul. Trabalho com tecnologia há 14 anos e meio, sou funcionário público concursado e atuo atualmente no cargo de supervisor de TI em uma prefeitura. Tenho formação técnica e estou cursando superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e agora migrando para esse universo do desenvolvimento. Quem quiser me acompanhar, siga minhas redes sociais: Instagram [@kokatk_](https://www.instagram.com/kokatk_/) e LinkedIn [carloshenriquesw](https://www.linkedin.com/in/carloshenriquesw). Email: carloshenriquesw@gmail.com.
 
 <p align="left">
-    <a href="https://github.com/carloshenriquesw?tab=repositories&sort=stargazers">
+    <a href="https://github.com/kokatk?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/carloshenriquesw?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/kokatk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/carloshenriquesw?tab=followers">
+    <a href="https://github.com/kokatk?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/carloshenriquesw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/kokatk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -117,14 +117,14 @@ Me chamo Carlos Henrique, tenho 32 anos e sou natural de Taquari, Rio Grande do 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carloshenriquesw&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=kokatk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquesw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokatk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
