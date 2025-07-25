@@ -148,8 +148,4 @@ Sou apaixonado por tecnologia e estou migrando com foco total para o universo do
 
 
 
----
 
-<p align="center" style="font-style: italic; color: gray;">
-  💡 “Código limpo e boas práticas constroem sistemas que duram.”  
-</p>
