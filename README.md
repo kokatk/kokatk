@@ -1,8 +1,9 @@
 <h1 align="center">👨🏻‍💻 Carlos Henrique</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Dev working" />
+  <img src="https://your-gif-url.gif" width="220" alt="Java coding animation" />
 </p>
+
 
 **`Desenvolvedor Backend Java`**
 
