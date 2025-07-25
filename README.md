@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻 Carlos Henrique</h1>
 
 <p align="center">
-  <img src="[https://your-gif-url.gif](https://files.codingninjas.in/article_images/java-developers-testing-your-application-2-1661061911.jpg)" width="220" alt="Java coding animation" />
+  <img src="[[https://your-gif-url.gif](https://files.codingninjas.in/article_images/java-developers-testing-your-application-2-1661061911.jpg)](https://ibb.co/ZRhLkwCf)" width="220" alt="Java coding animation" />
 </p>
 
 
