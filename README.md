@@ -1,101 +1,130 @@
-# 👋 Carlos Henrique da Silva
+# 👨🏻‍💻 Carlos Henrique
 
-**Desenvolvedor Backend Java | Supervisor de TI | Inovador em Tecnologia**
+**`Desenvolvedor Backend Java`**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&duration=3500&pause=1500&color=8A2BE2¢er=true&vCenter=true&width=500&lines=Apaixonado+por+Java+e+Soluções+Inovadoras;Construindo+o+Futuro+da+TI;Bem-vindo+ao+Meu+Perfil!" alt="Typing SVG" />
-</div>
+Me chamo Carlos Henrique da Silva, tenho 32 anos e sou natural de Taquari, Rio Grande do Sul. Trabalho com tecnologia há 14 anos e meio, sou funcionário público concursado e atuo atualmente no cargo de supervisor de TI em uma prefeitura. Tenho formação técnica e estou cursando superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e agora migrando para esse universo do desenvolvimento. Quem quiser me acompanhar, siga minhas redes sociais: Instagram [@kokatk_](https://www.instagram.com/kokatk_/) e LinkedIn [carloshenriquesw](https://www.linkedin.com/in/carloshenriquesw). Email: carloshenriquesw@gmail.com.
 
-<br>
-
-<div align="center" style="max-width: 700px; margin: auto; padding: 15px; border-radius: 8px; background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%); box-shadow: 0 4px 10px rgba(0,0,0,0.2); color: #ffffff;">
-  <p style="font-size: 15px; line-height: 1.5; text-align: justify;">
-    Com 32 anos e natural de Taquari, RS 🇧🇷, acumulo mais de 14 anos de experiência em TI como funcionário público concursado e supervisor de TI em uma prefeitura. Formado tecnicamente e cursando Análise e Desenvolvimento de Sistemas, sou impulsionado pela paixão pela tecnologia, migrando para o desenvolvimento backend para criar soluções escaláveis e impactantes.
-  </p>
-</div>
-
-<div align="center" style="margin: 15px 0;">
-  <a href="https://www.linkedin.com/in/carloshenriquesw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; border-radius: 4px;" /></a>
-  <a href="https://www.instagram.com/kokatk_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 4px;" /></a>
-  <a href="mailto:carloshenriquesw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="margin: 5px; border-radius: 4px;" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kokatk&style=flat&color=8A2BE2&label=Visualizações" alt="Profile Views" style="border-radius: 4px;" />
-</div>
+<p align="left">
+    <a href="https://github.com/kokatk?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/kokatk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/kokatk?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/kokatk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-### 🔧 Tech Stack
+### 🤖 Linguagens e Tecnologias
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 700px; margin: 20px auto;">
-  <div style="padding: 10px; border-radius: 6px; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)';">
-    <h4 style="font-size: 14px; color: #8A2BE2; margin-bottom: 5px;">Backend</h4>
-    <img alt="Java" title="Java" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img alt="Spring" title="Spring" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  </div>
-  <div style="padding: 10px; border-radius: 6px; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)';">
-    <h4 style="font-size: 14px; color: #8A2BE2; margin-bottom: 5px;">Ferramentas</h4>
-    <img alt="Git" title="Git" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="Maven" title="Maven" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
-    <img alt="Docker" title="Docker" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-    <img alt="Jenkins" title="Jenkins" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-    <img alt="PostgreSQL" title="PostgreSQL" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  </div>
-  <div style="padding: 10px; border-radius: 6px; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.15)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 5px rgba(0,0,0,0.1)';">
-    <h4 style="font-size: 14px; color: #8A2BE2; margin-bottom: 5px;">Frontend</h4>
-    <img alt="HTML" title="HTML" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img alt="CSS" title="CSS" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img alt="JavaScript" title="JavaScript" width="35px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  </div>
-</div>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Maven" 
+    title="Maven"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
----
+<br/>
+<br/>
 
-### 📈 Estatísticas
+### 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; max-width: 700px; margin: 20px auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokatk&theme=dracula&layout=compact&hide_border=true&langs_count=6&card_width=300" alt="Top Languages" style="border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); height: 150px;" />
-  <img src="https://streak-stats.demolab.com?user=kokatk&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br&card_width=300" alt="GitHub Streak" style="border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); height: 150px;" />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kokatk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokatk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-### 🌟 Projetos em Destaque
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; max-width: 700px; margin: 20px auto;">
-  <div style="flex: 1; min-width: 200px; padding: 10px; border-radius: 6px; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    <h4 style="color: #8A2BE2;">Projeto 1</h4>
-    <p>Descrição breve com Java e Spring.</p>
-    <a href="link-do-repositorio" style="text-decoration: none; color: #8A2BE2;">Ver mais →</a>
-  </div>
-  <div style="flex: 1; min-width: 200px; padding: 10px; border-radius: 6px; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    <h4 style="color: #8A2BE2;">Projeto 2</h4>
-    <p>Integração DevOps com Docker.</p>
-    <a href="link-do-repositorio" style="text-decoration: none; color: #8A2BE2;">Ver mais →</a>
-  </div>
-  <div style="flex: 1; min-width: 200px; padding: 10px; border-radius: 6px; background: #ffffff; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';">
-    <h4 style="color: #8A2BE2;">Projeto 3</h4>
-    <p>Aplicação com PostgreSQL.</p>
-    <a href="link-do-repositorio" style="text-decoration: none; color: #8A2BE2;">Ver mais →</a>
-  </div>
-</div>
-
----
-
-### 📚 Aprendendo Agora
-
-- Microservices com Spring Boot
-- Cloud Computing (AWS/Azure)
-- Testes Automatizados
-
----
-
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/kokatk?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/kokatk?style=flat&color=8A2BE2&logo=star&label=Estrelas" alt="Stars" style="margin: 5px;" /></a>
-  <a href="https://github.com/kokatk?tab=followers"><img src="https://img.shields.io/github/followers/kokatk?style=flat&color=8A2BE2&logo=github&label=Seguidores" alt="Followers" style="margin: 5px;" /></a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kokatk/kokatk/output/github-contribution-grid-snake.svg" alt="Snake Animation" style="max-width: 100%; border-radius: 8px;" />
-</div>
+</p>
