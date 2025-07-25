@@ -1,87 +1,130 @@
-<h1 align="center">👨🏻‍💻 Carlos Henrique</h1>
-<h3 align="center">Desenvolvedor Backend Java | Supervisor de TI | Estudante de ADS</h3>
+# 👨🏻‍💻 Carlos Henrique
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Apaixonado+por+tecnologia;Construindo+soluções+com+Spring+Boot;Compartilhando+conhecimento+%F0%9F%92%AD" alt="Typing SVG" />
-</p>
+**`Desenvolvedor Backend Java`**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="Coding gif"/>
-</p>
+Me chamo Carlos Henrique da Silva, tenho 32 anos e sou natural de Taquari, Rio Grande do Sul. Trabalho com tecnologia há 14 anos e meio, sou funcionário público concursado e atuo atualmente no cargo de supervisor de TI em uma prefeitura. Tenho formação técnica e estou cursando superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e agora migrando para esse universo do desenvolvimento. Quem quiser me acompanhar, siga minhas redes sociais: Instagram [@kokatk_](https://www.instagram.com/kokatk_/) e LinkedIn [carloshenriquesw](https://www.linkedin.com/in/carloshenriquesw). Email: carloshenriquesw@gmail.com.
 
-<p align="center">
-  Natural de <strong>Taquari - RS</strong>, atuo há 14+ anos com tecnologia. Atualmente sou <strong>Supervisor de TI</strong> em uma prefeitura.  
-  Sou técnico em informática e curso <strong>Análise e Desenvolvimento de Sistemas</strong>, focando em backend Java com Spring Boot.  
-  Se quiser acompanhar minha jornada, conecte-se comigo nas redes:
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/kokatk_/" target="_blank">
-    <img src="https://img.shields.io/badge/@kokatk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/carloshenriquesw" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-carloshenriquesw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:carloshenriquesw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-carloshenriquesw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="left">
+    <a href="https://github.com/kokatk?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/kokatk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/kokatk?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/kokatk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
+### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" title="Maven"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Maven" 
+    title="Maven"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=kokatk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokatk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kokatk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokatk&layout=compact&theme=tokyonight&langs_count=6"/>
-</div>
-
----
-
-### 📌 Repositórios em destaque
-
-<p align="center">
-  <a href="https://github.com/kokatk/nome-do-projeto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kokatk&repo=nome-do-projeto-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kokatk/nome-do-projeto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kokatk&repo=nome-do-projeto-2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### ✍️ Um pouco mais sobre mim...
-
-- 🎯 Focado em desenvolvimento backend robusto e seguro  
-- 📚 Estudando arquitetura de microsserviços e boas práticas com Java/Spring  
-- 💬 Gosto de compartilhar aprendizados com outros devs iniciantes  
-- ⚡ Curiosidade: comecei mexendo com redes e infraestrutura — hoje sou apaixonado por código!
-
----
-
-> “A persistência é o caminho do êxito.” — Charles Chaplin  
-> *Código limpo, propósito claro, aprendizado contínuo.*
-
----
-
