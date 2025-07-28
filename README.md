@@ -1,22 +1,18 @@
 <h1 align="center">👋 Bem-vindo ao meu perfil!</h1>
 
-<p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/9mq8Cfjp/java-developers-testing-your-application-2-1661061911.gif" alt="java-developers-testing-your-application-2-1661061911" border="0"></a>
-</p>
+**Carlos Henrique da Silva**  
+*Natural de Taquari, RS*
 
+Sou um **entusiasta apaixonado por tecnologia**, dando os primeiros passos na minha jornada como **desenvolvedor backend**. Atualmente, atuo como *supervisor de TI* em uma prefeitura, mas estou em plena **transição de carreira**, mergulhando de cabeça no universo do desenvolvimento enquanto curso *Análise e Desenvolvimento de Sistemas*.
 
-Carlos Henrique da Silva
-Natural de Taquari, RS
+Aqui no meu GitHub, você vai acompanhar minha **trilha de aprendizado** nesta nova etapa:
 
-Sou um entusiasta apaixonado por tecnologia, dando os primeiros passos na minha jornada como desenvolvedor backend. Atualmente, atuo como supervisor de TI em uma prefeitura, mas estou em plena transição de carreira, mergulhando de cabeça no universo do desenvolvimento enquanto curso Análise e Desenvolvimento de Sistemas.
+- 🛠️ *Resoluções de exercícios com APIs*
+- 📜 *Certificações* conquistadas
+- 📚 *Cursos* e *bootcamps* que estou realizando
+- 💻 *Projetos pessoais* que refletem meu crescimento
+- 🚀 Exploração de **novas tecnologias** para expandir minhas habilidades
 
-Aqui no meu GitHub, você vai acompanhar minha trilha de aprendizado nesta nova etapa:
-
-🛠️ Resoluções de exercícios com APIs
-📜 Certificações conquistadas
-📚 Cursos e bootcamps que estou realizando
-💻 Projetos pessoais que refletem meu crescimento
-🚀 Exploração de novas tecnologias para expandir minhas habilidades
 
 
 
