@@ -6,13 +6,22 @@
 
 
 
-**`Desenvolvedor Backend Java`**
+👋 Bem-vindo ao meu perfil!
 
-Me chamo **Carlos Henrique da Silva**, tenho **32 anos** e sou natural de **Taquari, Rio Grande do Sul**.  
-Trabalho com tecnologia há **14 anos e meio**, sou **funcionário público concursado** e atuo como **supervisor de TI** em uma prefeitura.
+Carlos Henrique da Silva
+Natural de Taquari, RS
 
-Tenho formação técnica e curso superior em **Análise e Desenvolvimento de Sistemas**.  
-Sou apaixonado por tecnologia e estou migrando com foco total para o universo do **desenvolvimento backend**.
+Sou um entusiasta apaixonado por tecnologia, dando os primeiros passos na minha jornada como desenvolvedor backend. Atualmente, atuo como supervisor de TI em uma prefeitura, mas estou em plena transição de carreira, mergulhando de cabeça no universo do desenvolvimento enquanto curso Análise e Desenvolvimento de Sistemas.
+
+Aqui no meu GitHub, você vai acompanhar minha trilha de aprendizado nesta nova etapa:
+
+🛠️ Resoluções de exercícios com APIs
+📜 Certificações conquistadas
+📚 Cursos e bootcamps que estou realizando
+💻 Projetos pessoais que refletem meu crescimento
+🚀 Exploração de novas tecnologias para expandir minhas habilidades
+
+
 
 📲 Me acompanhe nas redes sociais:  
 🔗 Instagram [@kokatk_](https://www.instagram.com/kokatk_/)  
