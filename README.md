@@ -1,12 +1,9 @@
-<h1 align="center">👨🏻‍💻 Carlos Henrique</h1>
+<h1 align="center">👋 Bem-vindo ao meu perfil!</h1>
 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/9mq8Cfjp/java-developers-testing-your-application-2-1661061911.gif" alt="java-developers-testing-your-application-2-1661061911" border="0"></a>
 </p>
 
-
-
-👋 Bem-vindo ao meu perfil!
 
 Carlos Henrique da Silva
 Natural de Taquari, RS
